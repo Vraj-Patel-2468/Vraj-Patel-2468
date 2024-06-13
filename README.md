@@ -2,14 +2,13 @@
 <br>
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am Vraj Patel.</strong></samp></h2>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+<p align='center'>Content Creator | Software developer | Full-stack MERN Developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
 Programmer trying to dive deeper in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to details* to generate best results.
 💻 **Languages and Tools:** 🛠️<br>
 
-![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
